@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fashion Trends</string>
+
+    <string name="Fashion_Trends">Fashion Trends</string>
+
+    <string-array name="selectcategory">
+        <item>Select Category</item>
+        <item>Clothes</item>
+        <item>Curtain</item>
+        <item>Bedsheet</item>
+    </string-array>
+
+
+    <string name="shopName">Shop Name</string>
+    <string name="price">Price</string>
+    <string name="city">City</string>
+    <string name="phoneNumber">+923001234567</string>
+    <string name="postCode">Post Code</string>
+    <string name="description">Write description</string>
+    <string name="rDescription">Description</string>
+    <string name="submit">SUBMIT</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079589539509",
+    "firebase_url": "https://fashiontrends-2356f.firebaseio.com",
+    "project_id": "fashiontrends-2356f",
+    "storage_bucket": "fashiontrends-2356f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079589539509:android:03d19f69c1557308a7f8fc",
+        "android_client_info": {
+          "package_name": "com.trendily.fashiontrends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079589539509-ukl4g7qh8v6s40r6drqpko5ic422a8a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trendily.fashiontrends",
+            "certificate_hash": "f851b15fd5d2e002744a6b00080c2857f6837794"
+          }
+        },
+        {
+          "client_id": "1079589539509-26858a5rervuc7odd7pkp0ddg7426ijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZtNCbMJyGnf1dpw4-5sTwNGVoW4zjTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079589539509-26858a5rervuc7odd7pkp0ddg7426ijo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
